@@ -1,3 +1,4 @@
 # Nightly internal analytics aggregation jobs
 
 PyYAML==5.3.1
+pyspark==3.5.0
